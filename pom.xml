@@ -7,11 +7,7 @@
   <groupId>simple_calc</groupId>
   <artifactId>devops_calc</artifactId>
   <version>1.0-SNAPSHOT</version>
-  
-  <build>
-    <filename>calculator-devops</filename>
-  </build>
-
+ 
   <name>devops_calc</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
