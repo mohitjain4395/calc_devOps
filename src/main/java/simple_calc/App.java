@@ -6,8 +6,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        Integer a = 50;
-        Integer b = 40;
+        Integer a = 18;
+        Integer b = 63;
         System.out.println("Output for the addition is : "+addition(a,b));
 
         System.out.println("Output for the subtraction is : "+subtraction(a,b));
